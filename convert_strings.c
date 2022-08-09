@@ -37,7 +37,7 @@ unsigned int convert_R(va_list args, buffer_t *output,
 
  *
 
- * Return: The number of bytes stored to the buffer.
+ * Return: The number of bytes stored to the buffer1.
 
  */
 
