@@ -34,9 +34,7 @@ unsigned int convert_R(va_list args, buffer_t *output,
  * @len: A length modifier.
 
  * @output: A buffer_t struct containing a character array.
-
  *
-
  * Return: The number of bytes stored to the buffer1.
 
  */
