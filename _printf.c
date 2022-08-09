@@ -52,6 +52,7 @@ return (ret); }
  * _printf - Outputs a formatted string.
  * @format: Character string to print - may contain directives.
  *
+ *
  * Return: The number of characters printed.
  */
 int _printf(const char *format, ...)
