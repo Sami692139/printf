@@ -85,11 +85,8 @@ int i, j;
  * handle_length - Matches length modifiers with their corresponding value.
 
  * @modifier: A pointer to a potential length modifier.
-
  * @index: An index counter for the original format string.
-
  *
-
  * Return: If a lenth modifier is matched - its corresponding value.
 
  *         Otherwise - 0.
