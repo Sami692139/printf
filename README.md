@@ -3,6 +3,8 @@
 > This is an ALX collaboration project
 ## Written by
 
+Samuel T
+Natnael Bizuneh
 - C language
 - Betty linter
 ## General Requirement
