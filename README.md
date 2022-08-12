@@ -29,19 +29,7 @@ Natnael Bizuneh
 `$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
 ## Authors
 
-👤 **Tarikwa Tesfa**
 
-- GitHub: [@tariktesfa](https://github.com/tariktesfa)
-- Twitter: [@tarikwatesfa](https://twitter.com/tarik_tesfa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/tarikwa-tesfa)
-
-👤 **Dawit Sisay**
-
-- GitHub: [@dawitsisayy](https://github.com/DawitSisayy)
-- Twitter: [@Dawitsisay](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
